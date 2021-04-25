@@ -1,0 +1,34 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+favicon = "false"
+
+[style]
+theme = "system-preference"
+cover = "left"
+content = "center"
+
+[profile]
+name = "AWtnb"
+bio = "Book Editor"
+
+[social]
+twitter = ""
+github = "AWtnb"
+instagram = ""
+facebook = ""
+youtube = ""
+
+[content]
+title = "Sakura in Tokyo"
+tags = ["Landscape", "Spring", "April", "2021"]
+text = """
+九段下・千鳥ヶ淵
+"""
+
+[section.1]
+title = "nightside"
+text = """
+
+"""
